@@ -1,4 +1,4 @@
 ## Hi there 👋 I'm Azra Çakmak.
-### 🌎```c
+```c
 **Printf("Hello World!");** 
 ```
